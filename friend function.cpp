@@ -23,3 +23,5 @@ int main()
     setNama(joko, "Kairi Kumur");
     return 0;
 }
+
+//2323
